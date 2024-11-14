@@ -28,13 +28,13 @@ This assignment exercises the basics of Power BI. You will use two cloud based d
 
 5. In the data modeling area of PowerBI, set up a `1:many` relationship beteween the `Customer` table and the `FACT_OrderDetails` table using CustomerId as the key. Note that PowerBI may automatically find this relationship.
 
-   <p align ="center"> <img src="./screenshots/model.jpg" alt="model" width="350" jus> </p>
+   <p align ="center"> <img src="./screenshots/model.jpg" alt="model" width="400" jus> </p>
 
 6. In the FACT_OrderDetails table, create a new column titled TotalSale based on the UnitPrice, Quantity, and Discount.
 
-<p align ="center"> <img src="./screenshots/factHead.jpg" alt="model" width="450" jus> </p>
+<p align ="center"> <img src="./screenshots/factHead.jpg" alt="model" width="550" jus> </p>
 <p align ="center"> ... </p>
-<p align ="center"> <img src="./screenshots/factTail.jpg" alt="model" width="450" jus> </p>
+<p align ="center"> <img src="./screenshots/factTail.jpg" alt="model" width="550" jus> </p>
 
 7. Save the Power BI desktop file.
 
